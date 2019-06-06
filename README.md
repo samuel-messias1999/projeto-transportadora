@@ -7,10 +7,10 @@ Pré-Requisitos:
 
 Clone o repositório do GitHub:
 ```
-git clone https://github.com/samuel-messias1999/projeto-transportadora2019
+git clone https://github.com/samuel-messias1999/projeto-transportadora
 ```
 
-Crie um ambiente virtual para o projeto e o ative:
+Apague as pastas ".idea" e "venv". Após isso, crie um ambiente virtual para o projeto e o ative:
 ```
 virtualenv projeto-transportadora
 source projeto-transportadora/bin/activate
